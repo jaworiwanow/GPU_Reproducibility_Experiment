@@ -13,3 +13,8 @@ To isolate the effect of layer size differences as much as possible, a three lay
 
 ## Results
 Results and generated models are uploaded here. Encoder outputs have not been uploaded, as they're reproducible with the model and data. 
+
+## Requirements
+Requirements are listed in a separate file. 
+Tests were run on a Windows 11 x64 system (Version 10.0.22621, Build 22621) with a RTX 3070 laptop GPU.
+GPU driver version 31.0.15.3640, CUDA Toolkit 11.8, cuDNN SDK 8.6.0 and Python 3.9.7. were used
