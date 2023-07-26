@@ -1,0 +1,9 @@
+experi.ipynb
+interpolation.ipynb
+BCICIV_calib_ds1a_1000Hz.mat
+decoder_output*
+ECG5000*.txt
+__pycache__/
+graphs/
+variables.*
+keras_metadata.pb
